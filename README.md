@@ -6,6 +6,6 @@ SWE [@umrover](https://github.com/umrover)
 
 Developer Advocate [@jaseci-labs](https://github.com/jaseci-labs)
 
-SWE Intern @ TikTok
+Prev SWE Intern @ TikTok
 
 my website [here](https://kevinjin.dev/)
