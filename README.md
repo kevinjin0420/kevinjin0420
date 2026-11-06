@@ -4,8 +4,6 @@ Computer Engineering @ UofM
 
 SWE [@umrover](https://github.com/umrover)
 
-Developer Advocate [@jaseci-labs](https://github.com/jaseci-labs)
-
 Prev SWE Intern @ TikTok
 
-my website [here](https://kevinjin.dev/)
+[kevinjin.dev](https://kevinjin.dev/)
